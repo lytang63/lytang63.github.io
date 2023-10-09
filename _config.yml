@@ -1,7 +1,7 @@
 # Basic Information 
 title: Luyao Tang
 (唐路垚)
-position: MS. Student
+position: M. Student
 affiliation: XMU
 email: lytang (at) stu.xmu.edu.cn
 
@@ -21,7 +21,7 @@ github_link: https://github.com/lytang63
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
+avatar: ./assets/img/luyaotang.jpg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
