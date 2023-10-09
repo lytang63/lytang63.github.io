@@ -14,7 +14,7 @@ main:
   - title: "Mix and Reason: Reasoning over Semantic Topology with Data Mixing for Domain Generalization"
     authors: Chaoqi Chen, <strong>Luyao Tang</strong>, Feng Liu, Gangming Zhao, Yue Huang, Yizhou Yu
     conference_short: NeurIPS
-    conference: Advances in Neural Information Processing Systems 35 <strong>(NeurIPS)</strong>, 2022.
+    conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2022.
     pdf: https://proceedings.neurips.cc/paper_files/paper/2022/file/d75f561eaaf2cb754bc8d7e36d8af362-Paper-Conference.pdf
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
