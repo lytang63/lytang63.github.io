@@ -1,22 +1,22 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Activate and Reject: Towards Safe Domain Generalization under Category Shift"
+    authors: Chaoqi Chen*, <strong>Luyao Tang*</strong>, Leitian Tao, Hong-Yu Zhou, Yue Huang, Xiaoguang Han, Yizhou Yu (*contributed equally)
+    conference_short: ICCV
+    conference: Proceedings of the IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.
+    pdf: https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Activate_and_Reject_Towards_Safe_Domain_Generalization_under_Category_Shift_ICCV_2023_paper.pdf
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/ICCV23_1.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Mix and Reason: Reasoning over Semantic Topology with Data Mixing for Domain Generalization"
+    authors: Chaoqi Chen, <strong>Luyao Tang</strong>, Feng Liu, Gangming Zhao, Yue Huang, Yizhou Yu
+    conference_short: NeurIPS
+    conference: Advances in Neural Information Processing Systems 35 <strong>(NeurIPS)</strong>, 2022.
+    pdf: https://proceedings.neurips.cc/paper_files/paper/2022/file/d75f561eaaf2cb754bc8d7e36d8af362-Paper-Conference.pdf
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/NIPS22_1.png
+    notes: Spotlight
