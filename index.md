@@ -17,7 +17,7 @@ I am currently in the second year of my Master's degree from [School of Informat
 
 - **[09 / 2023]** One paper accepted to NeurIPS 2023 (Spotlight).
 - **[07 / 2023]** One paper accepted to ICCV 2023.
-- **[09 / 2022]** One paper accepted to NeurIPS 2022.
+- **[09 / 2022]** One paper accepted to NeurIPS 2022 (Spotlight).
 
 {% include_relative _includes/publications.md %}
 
