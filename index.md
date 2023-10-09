@@ -6,7 +6,7 @@ layout: homepage
 
 I am currently in the second year of my Master's degree from [School of Informatics](https://informatics.xmu.edu.cn/), [Xiamen University](https://www.xmu.edu.cn/). I am advised by Prof. [Xinghao Ding](https://xmu-smartdsp.github.io/teamindex/xhding.html) and Prof. [Yue Huang](https://xmu-smartdsp.github.io/teamindex/yhuang.html) of [SmartDSP Lab](https://xmu-smartdsp.github.io/), XMU. I received the B.Eng degree from the [School of Informatics](https://informatics.xmu.edu.cn/), [Xiamen University](https://www.xmu.edu.cn/) in 2022.
 
-[Email](mailto:lytang@stu.xmu.edu.cn) / [Google Scholar](https://scholar.google.com/citations?user=kKaYkMcAAAAJ) / [Github](https://github.com/lytang63) / [Wechat](./images/wechat.jpg)
+[Email](mailto:lytang@stu.xmu.edu.cn) / [Google Scholar](https://scholar.google.com/citations?user=kKaYkMcAAAAJ) / [Github](https://github.com/lytang63) / [Wechat](./assets/img/wechat.jpg)
 
 ## Research Interests
 
