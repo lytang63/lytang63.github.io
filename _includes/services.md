@@ -12,4 +12,5 @@
 <ul style="margin:0 0 20px;">
   <li><a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems"><autocolor>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</autocolor></a></li>
   <li><a href="https://ieee-cas.org/publication/tcsvt"><autocolor>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</autocolor></a></li>
+  <li><a href="https://www.grss-ieee.org/publications/transactions-on-geoscience-remote-sensing"><autocolor>IEEE Transactions on Geoscience and Remote Sensing (TGRS)</autocolor></a></li>  
 </ul>
