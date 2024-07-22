@@ -1,5 +1,14 @@
 main:
-
+  - title: " InPer: Whole-Process Domain Generalization via Interventionand Perturbation"
+    authors: <strong>Luyao Tang*</strong>, Yuxuan Yuan*, Xinghao Ding, Chaoqi Chen, Yue Huang (*contributed equally)
+    conference_short: BMVC
+    conference: British Machine Vision Conference <strong>(BMVC)</strong>, 2024.
+    pdf: https://openreview.net/pdf?id=Jw0KRTjsGA
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/BMVC24_1.png
+    # notes: Spotlight
+    
   - title: "CODA: Generalizing to Open and Unseen Domains with Compaction and Disambiguation"
     authors: Chaoqi Chen*, <strong>Luyao Tang*</strong>, Yue Huang, Xiaoguang Han, Yizhou Yu (*contributed equally)
     conference_short: NeurIPS
