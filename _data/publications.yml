@@ -2,7 +2,7 @@ main:
   - title: "Bootstrap Segmentation Foundation Model under Distribution Shift via Object-Centric Learning"
     authors: <strong>Luyao Tang*</strong>, Yuxuan Yuan*, Chaoqi Chen, Kunze Huang, Xinghao Ding, Yue Huang
     conference_short: ECCVW
-    conference: The European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
+    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
     pdf: https://arxiv.org/abs/2408.03608v2
     code: https://github.com/lytang63/SlotSAM
     # bibtex: https://bib.yliu.me/MICCAI23.txt
