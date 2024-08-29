@@ -3,7 +3,8 @@
 <h4 style="margin:0 10px 0;">Conference Reviewer</h4>
 
 <ul style="margin:0 0 20px;">
-    <li><a href="https://neurips.cc/"><autocolor>Neural Information Processing Systems (NeurIPS) 2024</autocolor></a></li>
+  <li><a href="https://iclr.cc/"><autocolor>International Conference on Learning Representations (ICLR) 2025</autocolor></a></li>
+  <li><a href="https://neurips.cc/"><autocolor>Advances in Neural Information Processing Systems (NeurIPS) 2024</autocolor></a></li>
   <li><a href="https://cvpr.thecvf.com/Conferences/2024"><autocolor>IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2024</autocolor></a></li>
   <li><a href="https://eccv2024.ecva.net"><autocolor>European Conference on Computer Vision (ECCV) 2024</autocolor></a></li>
   <li><a href="https://2024.acmmm.org/"><autocolor>ACM International Conference on Multimedia (ACM MM) 2024</autocolor></a></li>
