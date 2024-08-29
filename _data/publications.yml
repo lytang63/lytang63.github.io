@@ -9,7 +9,7 @@ main:
     image: ./assets/img/ECCV2024W_1.png
     notes: Workshop EVAL-FoMo
 
-  - title: "InPer: Whole-Process Domain Generalization via Interventionand Perturbation"
+  - title: "Mixstyle-Entropy: Domain Generalization with Causal Intervention and Perturbation"
     authors: <strong>Luyao Tang*</strong>, Yuxuan Yuan*, Xinghao Ding, Chaoqi Chen, Yue Huang
     conference_short: BMVC
     conference: British Machine Vision Conference <strong>(BMVC)</strong>, 2024.
