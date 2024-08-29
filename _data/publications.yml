@@ -1,26 +1,36 @@
 main:
-  - title: " InPer: Whole-Process Domain Generalization via Interventionand Perturbation"
-    authors: <strong>Luyao Tang*</strong>, Yuxuan Yuan*, Xinghao Ding, Chaoqi Chen, Yue Huang (*contributed equally)
+  - title: "Bootstrap Segmentation Foundation Model under Distribution Shift via Object-Centric Learning"
+    authors: <strong>Luyao Tang*</strong>, Yuxuan Yuan*, Chaoqi Chen, Kunze Huang, Xinghao Ding, Yue Huang
+    conference_short: ECCVW
+    conference: The European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
+    pdf: https://arxiv.org/abs/2408.03608v2
+    code: https://github.com/lytang63/SlotSAM
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/ECCV2024W_1.png
+    notes: Workshop EVAL-FoMo
+
+  - title: "InPer: Whole-Process Domain Generalization via Interventionand Perturbation"
+    authors: <strong>Luyao Tang*</strong>, Yuxuan Yuan*, Xinghao Ding, Chaoqi Chen, Yue Huang
     conference_short: BMVC
     conference: British Machine Vision Conference <strong>(BMVC)</strong>, 2024.
-    pdf: https://openreview.net/pdf?id=Jw0KRTjsGA
-    # code: https://github.com/MrGiovanni/ContinualLearning
+    pdf: https://arxiv.org/abs/2408.03608v2
+    code: https://github.com/lytang63/MixstyleEntropy
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/BMVC24_1.png
     # notes: Spotlight
     
   - title: "CODA: Generalizing to Open and Unseen Domains with Compaction and Disambiguation"
-    authors: Chaoqi Chen*, <strong>Luyao Tang*</strong>, Yue Huang, Xiaoguang Han, Yizhou Yu (*contributed equally)
+    authors: Chaoqi Chen*, <strong>Luyao Tang*</strong>, Yue Huang, Xiaoguang Han, Yizhou Yu
     conference_short: NeurIPS
     conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
     pdf: https://openreview.net/pdf?id=Jw0KRTjsGA
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/NIPS23_1.png
-    notes: Spotlight
+    notes: ⭐Spotlight⭐
     
   - title: "Activate and Reject: Towards Safe Domain Generalization under Category Shift"
-    authors: Chaoqi Chen*, <strong>Luyao Tang*</strong>, Leitian Tao, Hong-Yu Zhou, Yue Huang, Xiaoguang Han, Yizhou Yu (*contributed equally)
+    authors: Chaoqi Chen*, <strong>Luyao Tang*</strong>, Leitian Tao, Hong-Yu Zhou, Yue Huang, Xiaoguang Han, Yizhou Yu
     conference_short: ICCV
     conference: Proceedings of the IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.
     pdf: https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Activate_and_Reject_Towards_Safe_Domain_Generalization_under_Category_Shift_ICCV_2023_paper.pdf
@@ -38,4 +48,4 @@ main:
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/NIPS22_1.png
-    notes: Spotlight
+    notes: ⭐Spotlight⭐
