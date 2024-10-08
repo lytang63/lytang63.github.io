@@ -3,7 +3,7 @@ main:
     authors: <strong>Luyao Tang*</strong>, Yuxuan Yuan*, Chaoqi Chen, Kunze Huang, Xinghao Ding, Yue Huang
     conference_short: ECCVW
     conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
-    pdf: https://arxiv.org/abs/2408.03608v2
+    pdf: https://arxiv.org/abs/2408.16310v1
     code: https://github.com/lytang63/SlotSAM
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/ECCV2024W_1.png
