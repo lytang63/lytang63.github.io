@@ -10,15 +10,17 @@ I am currently in the third year of my Master's degree from [School of Informati
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation
-- **Machine Learning:** transfer learning, out-of-domain generalization, test-time adaptation
+- **Computer Vision:** image recognition, segmentation, generation
+- **Machine Learning:** object-centric learning, out-of-distribution generalization, test-time adaptation
 
 ## News
+- **[09 / 2024]** One paper accepted to NeurIPS 2024 (Spotlight).
+- **[09 / 2024]** One paper accepted to TNNLS.
 - **[08 / 2024]** One paper accepted to ECCV 2024 Workshop.
 - **[07 / 2024]** One paper accepted to BMVC 2024.
 - **[09 / 2023]** One paper accepted to NeurIPS 2023 (Spotlight).
 - **[07 / 2023]** One paper accepted to ICCV 2023.
-- **[09 / 2022]** One paper accepted to NeurIPS 2022 (Spotlight).
+%- **[09 / 2022]** One paper accepted to NeurIPS 2022 (Spotlight).
 
 {% include_relative _includes/publications.md %}
 
