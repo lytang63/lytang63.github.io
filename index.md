@@ -20,7 +20,7 @@ I am currently in the third year of my Master's degree from [School of Informati
 - **[07 / 2024]** One paper accepted to BMVC 2024.
 - **[09 / 2023]** One paper accepted to NeurIPS 2023 (Spotlight).
 - **[07 / 2023]** One paper accepted to ICCV 2023.
-%- **[09 / 2022]** One paper accepted to NeurIPS 2022 (Spotlight).
+<!-- - **[09 / 2022]** One paper accepted to NeurIPS 2022 (Spotlight).。 -->
 
 {% include_relative _includes/publications.md %}
 
