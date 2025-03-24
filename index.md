@@ -14,6 +14,7 @@ I am currently in the third year of my Master's degree from [School of Informati
 - **Machine Learning:** object-centric learning, out-of-distribution generalization, test-time adaptation
 
 ## News
+- **[02 / 2024]** One paper accepted to CVPR 2025.
 - **[09 / 2024]** One paper accepted to NeurIPS 2024 (Spotlight).
 - **[09 / 2024]** One paper accepted to TNNLS.
 - **[08 / 2024]** One paper accepted to ECCV 2024 Workshop.
