@@ -4,7 +4,7 @@ main:
     conference_short: CVPR
     conference:  IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2503.18695
-    # code: https://github.com/lytang63/SlotSAM
+    code: https://github.com/lytang63/OCRT
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/CVPR25_1.png
     
