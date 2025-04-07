@@ -16,6 +16,7 @@ main:
     # code: https://github.com/lytang63/SlotSAM
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/NIPS24_1.png
+    notes: ⭐Spotlight⭐
     
   - title: "Bootstrap Segmentation Foundation Model under Distribution Shift via Object-Centric Learning"
     authors: <strong>Luyao Tang*</strong>, Yuxuan Yuan*, Chaoqi Chen, Kunze Huang, Xinghao Ding, Yue Huang
