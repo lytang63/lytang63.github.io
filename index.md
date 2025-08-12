@@ -13,10 +13,10 @@ I am currently a first-year PhD student in [Department of Electrical and Electro
 - **Machine Learning:** object-centric learning, out-of-distribution generalization, test-time adaptation
 
 ## News
-- **[06 / 2025]** Two paper accepted to ICCV 2025.
+- **[06 / 2025]** Two paper accepted to ICCV 2025 (⭐Highlight⭐ and Poster).
 - **[06 / 2025]** One paper accepted to TMLR.
 - **[02 / 2025]** One paper accepted to CVPR 2025.
-- **[09 / 2024]** One paper accepted to NeurIPS 2024 (Spotlight).
+- **[09 / 2024]** One paper accepted to NeurIPS 2024 (⭐Spotlight⭐).
 - **[09 / 2024]** Two papers accepted to TNNLS and TAES, respectively.
 - **[08 / 2024]** One paper accepted to ECCV 2024 Workshop.
 - **[07 / 2024]** One paper accepted to BMVC 2024.
