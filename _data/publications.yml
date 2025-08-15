@@ -1,5 +1,25 @@
 main:
   - title: "OCRT: Boosting Foundation Models in the Open World with Object-Concept-Relation Triad"
+    authors: <strong>Luyao Tang*</strong>, Kunze Huang*, Chaoqi Chen, Yuxuan Yuan, Chenxin Li, Xiaotong Tu, Xinghao Ding, Yue Huang
+    conference_short: ICCV
+    conference:  Proceedings of the IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2508.10731
+    code: https://github.com/lytang63/ConGCD
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/ICCV25_1.png
+    notes: ⭐Highlight⭐
+    
+  - title: "Generalized Category Discovery via Token Manifold Capacity Learning"
+    authors: <strong>Luyao Tang*</strong>, Kunze Huang, Chaoqi Chen, Cheng Chen
+    conference_short: Arxiv
+    # conference:  Proceedings of the IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2505.14044
+    code: https://github.com/lytang63/MTMC
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/ICCV25_1.png
+    notes: under review
+    
+  - title: "OCRT: Boosting Foundation Models in the Open World with Object-Concept-Relation Triad"
     authors: <strong>Luyao Tang*</strong>, Yuxuan Yuan*, Chaoqi Chen, Zeyu Zhang, Yue Huang, Kun Zhang
     conference_short: CVPR
     conference:  IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
