@@ -3,9 +3,9 @@ layout: homepage
 ---
 
 ## About Me
-I am currently a first-year PhD student in [Department of Electrical and Electronic Engineering](https://www.eee.hku.hk/) at [The University of Hong Kong](https://www.hku.hk/), advised by Prof. [Cheng Chen](https://cchen-cc.github.io/). I received my B.E. degree in Communication Engineering in 2022 and my M.E. degree in Artificial Intelligence in 2025, respectively, from the [School of Informatics](https://informatics.xmu.edu.cn/) at [Xiamen University](https://www.xmu.edu.cn/), under the supervision of Prof. [Xinghao Ding](https://xmu-smartdsp.github.io/teamindex/xhding.html) and Prof. [Yue Huang](https://xmu-smartdsp.github.io/teamindex/yhuang.html). 
+I am currently a first-year PhD student in [Department of Electrical and Electronic Engineering](https://www.eee.hku.hk/) at [The University of Hong Kong](https://www.hku.hk/), advised by Prof. [Cheng Chen](https://cchen-cc.github.io/). I received my B.E. degree in Communication Engineering in 2022 and my M.E. degree in Artificial Intelligence in 2025, respectively, from the [School of Informatics](https://informatics.xmu.edu.cn/) at [Xiamen University](https://www.xmu.edu.cn/), under the supervision of Prof. [Xinghao Ding](https://scholar.google.com/citations?user=k5hVBfMAAAAJ) and Prof. [Yue Huang](https://scholar.google.com/citations?user=smxgn4YAAAAJ). 
 
-[Email](mailto:lytang@stu.xmu.edu.cn) / [Email](mailto:lytang1999@gmail.com) / [Google Scholar](https://scholar.google.com/citations?user=kKaYkMcAAAAJ) / [Github](https://github.com/lytang63) / [Wechat](./assets/img/wechat.jpg)
+[Email](mailto:lytang1999@gmail.com) / [Google Scholar](https://scholar.google.com/citations?user=kKaYkMcAAAAJ) / [Github](https://github.com/lytang63) / [Wechat](./assets/img/wechat.jpg)
 
 ## Research Interests
 
