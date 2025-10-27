@@ -9,8 +9,8 @@ I am currently a first-year PhD student in [Department of Electrical and Electro
 
 ## Research Interests
 
-- **Computer Vision:** large vision language models, reasoning, image recognition, segmentation, generation
-- **Machine Learning:** object-centric learning, out-of-distribution generalization, test-time adaptation
+- **Computer Vision:** large vision language models, reasoning, image generation, object detection
+- **Machine Learning:** object-centric learning, out-of-distribution generalization, open-world learning
 
 ## News
 - **[06 / 2025]** Two paper accepted to ICCV 2025 (⭐Highlight⭐ and Poster).
