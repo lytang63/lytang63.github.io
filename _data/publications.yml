@@ -8,6 +8,16 @@ main:
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/ICCV25_1.png
     notes: ⭐Highlight⭐
+
+  - title: "ASGS: Single-Domain Generalizable Open-Set Object Detection via Adaptive Subgraph Searching"
+    authors: Yuxuan Yuan*, <strong>Luyao Tang*</strong>, Yixin Chen, Chaoqi Chen, Yue Huang, Xinghao Ding
+    conference_short: ICCV
+    conference:  Proceedings of the IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2025.
+    pdf: https://openaccess.thecvf.com/content/ICCV2025/papers/Yuan_ASGS_Single-Domain_Generalizable_Open-Set_Object_Detection_via_Adaptive_Subgraph_Searching_ICCV_2025_paper.pdf
+    # code: https://github.com/lytang63/ConGCD
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/ICCV25_2.png
+    # notes: ⭐Highlight⭐
     
   - title: "Generalized Category Discovery via Token Manifold Capacity Learning"
     authors: <strong>Luyao Tang*</strong>, Kunze Huang, Chaoqi Chen, Cheng Chen
