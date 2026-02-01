@@ -9,17 +9,18 @@ I am currently a first-year PhD student in [Department of Electrical and Electro
 
 ## Research Interests
 
-- **Computer Vision:** large vision language models, reasoning, image generation, object detection
-- **Machine Learning:** object-centric learning, out-of-distribution generalization, open-world learning
+- **Computer Vision:** large vision language models, reasoning, image generation, object detection, AI healthcare
+- **Machine Learning:** object-centric learning, out-of-distribution generalization, open-world learning, generalized category discovery
 
 ## News
+- **[02 / 2026]** One paper accepted to ICLR 2026.
 - **[06 / 2025]** Two paper accepted to ICCV 2025 (⭐Highlight⭐ and Poster).
 - **[06 / 2025]** One paper accepted to TMLR.
 - **[02 / 2025]** One paper accepted to CVPR 2025.
 - **[09 / 2024]** One paper accepted to NeurIPS 2024 (⭐Spotlight⭐).
 - **[09 / 2024]** Two papers accepted to TNNLS and TAES, respectively.
-- **[08 / 2024]** One paper accepted to ECCV 2024 Workshop.
-- **[07 / 2024]** One paper accepted to BMVC 2024.
+- **[08 / 2024]** One paper accepted to ECCV 2024 Workshop. -->
+<!-- - **[07 / 2024]** One paper accepted to BMVC 2024.
 <!-- - **[09 / 2023]** One paper accepted to NeurIPS 2023 (Spotlight). -->
 <!-- - **[07 / 2023]** One paper accepted to ICCV 2023. -->
 <!-- - **[09 / 2022]** One paper accepted to NeurIPS 2022 (Spotlight). -->
