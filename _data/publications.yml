@@ -1,4 +1,20 @@
 main:
+  - title: "CoGe-GCD: Reframing Generalized Category Discovery with Compositional Generalization"
+    authors: <strong>Luyao Tang</strong>, Kunze Huang, Chaoqi Chen, Cheng Chen
+    conference_short: ICML
+    conference:  Forty-third International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
+    pdf: https://arxiv.org/pdf/2508.10731
+    code: https://github.com/lytang63/CoGe-GCD
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/ICML26_1.png
+  - title: "Bures-Isotropy Alignment: Manifold Learning of Generalized Category Discovery"
+    authors: <strong>Luyao Tang*</strong>, Kunze Huang*, Chaoqi Chen, Cheng Chen
+    conference_short: ICLR
+    conference:  The Fourteenth International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.
+    pdf: https://arxiv.org/pdf/2508.10731
+    code: https://github.com/lytang63/BIA
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/ICLR26_1.png
   - title: "Dissecting Generalized Category Discovery: Multiplex Consensus under Self-Deconstruction"
     authors: <strong>Luyao Tang*</strong>, Kunze Huang*, Chaoqi Chen, Yuxuan Yuan, Chenxin Li, Xiaotong Tu, Xinghao Ding, Yue Huang
     conference_short: ICCV
