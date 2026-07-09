@@ -13,6 +13,10 @@ I am currently a first-year PhD student in [Department of Electrical and Electro
 - **Machine Learning:** object-centric learning, out-of-distribution generalization, open-world learning, generalized category discovery
 
 ## News
+- **[06 / 2026]** Two paper accepted to ECCV 2026.
+- **[06 / 2026]** IEEE IVMSP 2026 ⭐Best Paper Award⭐! 
+- **[06 / 2026]** One paper accepted to ECCV 2026.
+- **[05 / 2026]** One paper accepted to ICML 2026.
 - **[02 / 2026]** One paper accepted to ICLR 2026.
 - **[06 / 2025]** Two paper accepted to ICCV 2025 (⭐Highlight⭐ and Poster).
 - **[06 / 2025]** One paper accepted to TMLR.
