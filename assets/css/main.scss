@@ -492,8 +492,41 @@ body {
     letter-spacing: -.02em;
 }
 
+.author__name-en,
+.author__name-zh {
+    display: block;
+}
+
+.author__name-zh {
+    margin-top: .12em;
+    font-size: .8em;
+    letter-spacing: .02em;
+}
+
 .author__bio {
     color: #5f6b7a;
+}
+
+.author__keywords {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .45em;
+    margin-bottom: 1.15em !important;
+}
+
+.author__keywords span {
+    display: inline-flex;
+    align-items: center;
+    min-height: 2em;
+    padding: .28em .62em;
+    border: 1px solid #dfe7f2;
+    border-radius: 999px;
+    background: #f7f9fc;
+    color: #41516a;
+    font-size: .82em;
+    font-weight: 600;
+    line-height: 1.25;
+    white-space: nowrap;
 }
 
 .author__urls a {
